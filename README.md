@@ -13,11 +13,11 @@ This project is a Movie Ticket Booking system that allows users to browse movies
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sahilverse/Movie-Ticket-Booking---Studio-Entertainment
+    git clone https://github.com/sahilverse/Movie-Ticket-Booking-Studio-Entertainment
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Movie-Ticket-Booking---Studio-Entertainment
+    cd Movie-Ticket-Booking-Studio-Entertainment
     ```
 3. Install dependencies:
     ```bash
